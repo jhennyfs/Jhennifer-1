@@ -1,0 +1,25 @@
+body {
+    height: 300vh;
+}
+
+
+
+
+
+
+
+
+.container {
+/* position: relative; */
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+}
+ .box {
+    top: 5vh;
+    position: absolute;
+    left: 400px;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+ }
